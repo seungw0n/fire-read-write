@@ -1,8 +1,7 @@
 # FileRead-Write
 
 
-#######################################DESCRIPTION######################################
-
+FileRead_Write.java         ver 1
 
 This code is an example of FileIO / Read and Write. 
 
@@ -24,13 +23,26 @@ NAME :
 
 EMAIL :
 
-#########################################################################################
 
 Restirction : "test.csv" should be located in same directory with FileRead_Write.java.
 
+#########################################################################################
+
+Package "Arrange" (Data.java, FileIO.java, Run.java)    ver 2 for FileRead_Write
+
+It has same restriction.
+
+
+
 
   FileRead_Write.java
-
+  
+  Data.java
+  
+  FileIO.java
+  
+  Run.java
+  
 
   Created by JOENG, SEUNG WON on 2018-06-13.
   
