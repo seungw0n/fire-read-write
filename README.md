@@ -1,14 +1,5 @@
 # FileRead-Write
 
-  FileRead-Write.java
-
-
-  Created by JOENG, SEUNG WON on 2018-06-13.
-  
-  Copyright © 2018 SEUNG WON JOENG. All rights reserved.
-  
-  
-  
 
 #######################################DESCRIPTION######################################
 
@@ -34,3 +25,14 @@ NAME :
 EMAIL :
 
 #########################################################################################
+
+
+  FileRead-Write.java
+
+
+  Created by JOENG, SEUNG WON on 2018-06-13.
+  
+  Copyright © 2018 SEUNG WON JOENG. All rights reserved.
+  
+  
+  
