@@ -7,13 +7,13 @@
 This code is an example of FileIO / Read and Write. 
 
 
-This program will read the "sample.csv" file. 
+This program will read the "test.csv" file. 
 
 
-It will re-arrange the informations from "sample.csv", and terminate with creating arranged file "result.txt".
+It will re-arrange the informations from "test.csv", and terminate with creating arranged file "result.txt".
 
 
-If the "sample.csv" has informations of personal name and email address, are seperated by ",", and the each personal inform is seperated by "\n" line.
+If the "test.csv" has informations of personal name and email address, are seperated by ",", and the each personal inform is seperated by "\n" line.
 
 
 The file "result.txt" will be formed as like below for all informations.
@@ -26,8 +26,10 @@ EMAIL :
 
 #########################################################################################
 
+Restirction : "test.csv" should be located in same directory with FileRead_Write.java.
 
-  FileRead-Write.java
+
+  FileRead_Write.java
 
 
   Created by JOENG, SEUNG WON on 2018-06-13.
