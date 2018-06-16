@@ -13,7 +13,7 @@ This program will read the "sample.csv" file.
 It will re-arrange the informations from "sample.csv", and terminate with creating arranged file "result.txt".
 
 
-Ths "sample.csv" has informations of personal name and email address, are divided by ",".
+Ths "sample.csv" has informations of personal name and email address, are seperated by ",", and the each personal inform is seperated by "\n" line.
 
 
 The file "result.txt" will be formed as like below for all informations.
