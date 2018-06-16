@@ -1,6 +1,5 @@
 /**********************************************************
-  FileRead-Write.java
-
+  FileRead_Write.java         ver_1
   Created by 정승원 on 2018-06-13.
   Copyright © 2018 SEUNG WON JOENG. All rights reserved.
 ***********************************************************/
